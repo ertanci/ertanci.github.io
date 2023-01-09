@@ -1,3 +1,6 @@
-# ertanci.github.io
+<h1 align="center">Hi 👋, I'm tata</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-Selam
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
